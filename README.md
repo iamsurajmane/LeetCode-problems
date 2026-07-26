@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2506-count-pairs-of-similar-strings) |
 | [2540-minimum-common-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2540-minimum-common-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2670-find-the-distinct-difference-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2670-find-the-distinct-difference-array) |
 | [2784-check-if-array-is-good](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2784-check-if-array-is-good) |
 | [2815-max-pair-sum-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2815-max-pair-sum-in-an-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2562-find-the-array-concatenation-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2660-determine-the-winner-of-a-bowling-game) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2562-find-the-array-concatenation-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2970-count-the-number-of-incremovable-subarrays-i) |
 ## Sorting
