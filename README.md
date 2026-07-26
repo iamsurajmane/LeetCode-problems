@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2278-percentage-of-letter-in-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2278-percentage-of-letter-in-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2418-sort-the-people) |
 | [2490-circular-sentence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2490-circular-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0643-maximum-average-subarray-i) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Interactive
 |  |
 | ------- |
