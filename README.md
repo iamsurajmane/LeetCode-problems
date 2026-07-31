@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0709-to-lower-case) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
