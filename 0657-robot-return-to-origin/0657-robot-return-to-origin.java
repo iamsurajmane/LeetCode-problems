@@ -12,7 +12,7 @@ class Solution {
             else if(moves.charAt(i) == 'L'){
                 y++;
             }
-            else if(moves.charAt(i) == 'R'){
+            else{
                 y--;
             }
         }
