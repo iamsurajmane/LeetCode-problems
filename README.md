@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [1408-string-matching-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0938-range-sum-of-bst) |
 ## Memoization
@@ -615,4 +619,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0257-binary-tree-paths) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
