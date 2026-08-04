@@ -50,19 +50,5 @@ class Solution {
         }
         return root;
     }
-    // public boolean searchBST(TreeNode root , int key){
-    //     if(root == null){
-    //         return false;
-    //     }
-    //     if(root.val == key){
-    //         return true;
-    //     }
-    //     if(root.val < key){
-    //         return searchBST(root.right , key);
-    //     }
-    //     if(root.val > key){
-    //         return searchBST(root.left , key);
-    //     }
-    //     return false;
-    // }
+    
 }
