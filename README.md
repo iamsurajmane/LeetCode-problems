@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0338-counting-bits) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0169-majority-element) |
