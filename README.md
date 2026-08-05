@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0169-majority-element) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0088-merge-sorted-array) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0036-valid-sudoku) |
 | [0867-transpose-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
