@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0867-transpose-matrix) |
@@ -718,4 +720,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0739-daily-temperatures) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
