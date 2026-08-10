@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0268-missing-number) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
