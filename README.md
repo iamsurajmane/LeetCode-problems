@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0455-assign-cookies) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0704-binary-search) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0645-set-mismatch) |
@@ -741,4 +745,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0258-add-digits) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
