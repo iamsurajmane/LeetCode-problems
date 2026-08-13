@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
