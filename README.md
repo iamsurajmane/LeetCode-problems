@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0997-find-the-town-judge) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0897-increasing-order-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -698,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Memoization
 |  |
@@ -761,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Number Theory
 |  |
 | ------- |
