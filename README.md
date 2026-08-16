@@ -794,4 +794,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
