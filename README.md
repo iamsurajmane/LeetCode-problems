@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0520-detect-capital) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0867-transpose-matrix) |
