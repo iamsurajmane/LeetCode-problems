@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0268-missing-number) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0238-product-of-array-except-self) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
