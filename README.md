@@ -484,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -774,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0401-binary-watch) |
 ## Hash Function
 |  |
 | ------- |
