@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0415-add-strings) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0875-koko-eating-bananas) |
