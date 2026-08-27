@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0409-longest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0739-daily-temperatures) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0876-middle-of-the-linked-list) |
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0705-design-hashset](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0707-design-linked-list) |
 ## Graph Theory
@@ -799,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0706-design-hashmap) |
 ## Binary Lifting
 |  |
