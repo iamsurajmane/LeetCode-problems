@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0392-is-subsequence) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
