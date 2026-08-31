@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0605-can-place-flowers) |
