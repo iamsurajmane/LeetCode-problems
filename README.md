@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0066-plus-one) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0144-binary-tree-preorder-traversal) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0141-linked-list-cycle) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0096-unique-binary-search-trees) |
@@ -873,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Number Theory
