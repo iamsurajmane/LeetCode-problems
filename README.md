@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0657-robot-return-to-origin) |
+| [0696-count-binary-substrings](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
