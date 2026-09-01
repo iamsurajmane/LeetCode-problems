@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3452-sum-of-good-numbers](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/3467-transform-array-by-parity) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iamsurajmane/LeetCode-problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3708-longest-fibonacci-subarray](https://github.com/iamsurajmane/LeetCode-problems/tree/master/3708-longest-fibonacci-subarray) |
 ## Trie
 |  |
 | ------- |
