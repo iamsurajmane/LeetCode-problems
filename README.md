@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0896-monotonic-array) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0509-fibonacci-number) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0746-min-cost-climbing-stairs](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0746-min-cost-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
