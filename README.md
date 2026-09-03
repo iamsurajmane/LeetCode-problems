@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/iamsurajmane/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2266-count-number-of-texts](https://github.com/iamsurajmane/LeetCode-problems/tree/master/2266-count-number-of-texts) |
 | [2469-convert-the-temperature](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2544-alternating-digit-sum) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2266-count-number-of-texts](https://github.com/iamsurajmane/LeetCode-problems/tree/master/2266-count-number-of-texts) |
 | [2418-sort-the-people](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2465-number-of-distinct-averages) |
 | [2506-count-pairs-of-similar-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2506-count-pairs-of-similar-strings) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2266-count-number-of-texts](https://github.com/iamsurajmane/LeetCode-problems/tree/master/2266-count-number-of-texts) |
 | [2278-percentage-of-letter-in-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2278-percentage-of-letter-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2418-sort-the-people) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/iamsurajmane/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
+| [2266-count-number-of-texts](https://github.com/iamsurajmane/LeetCode-problems/tree/master/2266-count-number-of-texts) |
 ## Bit Manipulation
 |  |
 | ------- |
