@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0326-power-of-three) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0347-top-k-frequent-elements) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0392-is-subsequence) |
@@ -680,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
