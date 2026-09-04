@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0706-design-hashmap) |
+| [0740-delete-and-earn](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0740-delete-and-earn) |
 | [0771-jewels-and-stones](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0929-unique-email-addresses) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0867-transpose-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0875-koko-eating-bananas) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0509-fibonacci-number) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0740-delete-and-earn](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/iamsurajmane/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [2266-count-number-of-texts](https://github.com/iamsurajmane/LeetCode-problems/tree/master/2266-count-number-of-texts) |
