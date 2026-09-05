@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0377-combination-sum-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0485-max-consecutive-ones) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0509-fibonacci-number) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0740-delete-and-earn](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0740-delete-and-earn) |
@@ -993,4 +995,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0075-sort-colors) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
