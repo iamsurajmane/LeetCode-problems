@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0645-set-mismatch) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0605-can-place-flowers) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1480-running-sum-of-1d-array) |
