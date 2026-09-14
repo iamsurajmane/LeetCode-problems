@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/iamsurajmane/LeetCode-problems/tree/master/1025-divisor-game) |
+| [1030-matrix-cells-in-distance-order](https://github.com/iamsurajmane/LeetCode-problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/iamsurajmane/LeetCode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/iamsurajmane/LeetCode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1030-matrix-cells-in-distance-order](https://github.com/iamsurajmane/LeetCode-problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1046-last-stone-weight](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1207-unique-number-of-occurrences) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1030-matrix-cells-in-distance-order](https://github.com/iamsurajmane/LeetCode-problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0867-transpose-matrix) |
+| [1030-matrix-cells-in-distance-order](https://github.com/iamsurajmane/LeetCode-problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1572-matrix-diagonal-sum](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2923-find-champion-i](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/2923-find-champion-i) |
@@ -1018,4 +1022,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0416-partition-equal-subset-sum) |
+## Geometry
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/iamsurajmane/LeetCode-problems/tree/master/1030-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
