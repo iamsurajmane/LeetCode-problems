@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0049-group-anagrams) |
