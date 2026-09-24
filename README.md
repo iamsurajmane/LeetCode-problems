@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0414-third-maximum-number](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0455-assign-cookies) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/iamsurajmane/LeetCode-problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/sm3031972-sys/LeetCode-problems/tree/master/0977-squares-of-a-sorted-array) |
